@@ -1,0 +1,21 @@
+{
+  "name": "torcjs",
+  "version": "0.1.0",
+  "description": "Manage Multiple Tor Processes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/june07/torc"
+  },
+  "keywords": [
+    "Tor",
+    "Multi",
+    "Manage",
+    "Tunnel"
+  ],
+  "author": "june07",
+  "license": "ISC"
+}
